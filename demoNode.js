@@ -12,3 +12,8 @@ var n = Math.pow(3,3);
 console.log(mostrar);
 console.log(largo);
 console.log(n);
+
+
+for(let i = 0; i<5;i++) {
+    console.log(i*i);
+}
